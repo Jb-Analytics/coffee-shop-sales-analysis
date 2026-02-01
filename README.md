@@ -1,32 +1,14 @@
-\# ☕ Coffee Shop Sales Analysis
+# ☕ Coffee Shop Sales Analysis
 
 
 
-\## 🕵️‍♀️ Project Context
+## 🕵️‍♀️ Project Context
 
-As a new franchise owner of \*\*Maven Roasters\*\*, a New York–based coffee shop chain with three locations, this project was designed to better understand customer purchasing behavior and support operational decision-making through data.
-
-
-
-The analysis is based on transactional data collected between \*\*January and June 2023\*\*.
+As a new franchise owner of **Maven Roasters**, a New York–based coffee shop chain with three locations, this project was designed to better understand customer purchasing behavior and support operational decision-making through data.
 
 
 
----
-
-
-
-\## 🎯 Project Goal
-
-The goal of this project is to transform raw transactional data into an \*\*interactive Excel dashboard\*\* that enables franchise owners to:
-
-
-
-\- Identify consumption trends  
-
-\- Detect business opportunities  
-
-\- Make data-driven decisions  
+The analysis is based on transactional data collected between **January and June 2023**.
 
 
 
@@ -34,49 +16,17 @@ The goal of this project is to transform raw transactional data into an \*\*inte
 
 
 
-\## 🧩 Approach \& Key Steps
+## 🎯 Project Goal
+
+The goal of this project is to transform raw transactional data into an **interactive Excel dashboard** that enables franchise owners to:
 
 
 
-\### 1️⃣ Data Preparation
+- Identify consumption trends  
 
-\- Cleaned and structured raw transactional data  
+- Detect business opportunities  
 
-\- Standardized date formats, product categories, and revenue values  
-
-\- Ensured data consistency across all store locations  
-
-
-
-\### 2️⃣ Exploratory Analysis
-
-\- Built \*\*PivotTables\*\* in Excel  
-
-\- Analyzed sales performance by:
-
-&nbsp; - Product category  
-
-&nbsp; - Time period  
-
-&nbsp; - Store location  
-
-&nbsp; - Customer type  
-
-
-
-\### 3️⃣ Dashboard Creation
-
-\- Designed an \*\*interactive Excel dashboard\*\*
-
-\- Used slicers, dynamic charts, and KPIs  
-
-\- Visualized:
-
-&nbsp; - Monthly revenue trends  
-
-&nbsp; - Top-selling products  
-
-&nbsp; - Peak and off-peak hours  
+- Make data-driven decisions  
 
 
 
@@ -84,55 +34,49 @@ The goal of this project is to transform raw transactional data into an \*\*inte
 
 
 
-\## 🔍 Key Insights
+## 🧩 Approach \& Key Steps
 
 
 
-\- 📈 \*\*Revenue doubled\*\* between January and June 2023, showing steady growth  
+### 1️⃣ Data Preparation
 
-\- ☕ \*\*Most popular product categories\*\*:
+- Cleaned and structured raw transactional data  
 
-&nbsp; - Coffee (58k transactions)
+- Standardized date formats, product categories, and revenue values  
 
-&nbsp; - Tea
-
-&nbsp; - Bakery  
-
-\- 🕘 \*\*Peak hours\*\*: Between \*\*8:00 AM and 10:00 AM\*\*  
-
-\- 📍 \*\*Store performance comparison\*\*:
-
-&nbsp; - Astoria
-
-&nbsp; - Hell’s Kitchen
-
-&nbsp; - Lower Manhattan  
-
-\- 📅 \*\*Traffic patterns\*\*:
-
-&nbsp; - Consistent activity on weekdays  
-
-&nbsp; - Lower footfall on Saturdays  
+- Ensured data consistency across all store locations  
 
 
 
----
+### 2️⃣ Exploratory Analysis
+
+- Built **PivotTables** in Excel  
+
+- Analyzed sales performance by:
+
+  - Product category  
+
+  - Time period  
+
+  - Store location  
+
+  - Customer type  
 
 
 
-\## ✅ Outcomes \& Business Impact
+### 3️⃣ Dashboard Creation
 
-\- Centralized view of overall business performance  
+- Designed an **interactive Excel dashboard**
 
-\- Faster and more informed decision-making  
+- Used slicers, dynamic charts, and KPIs  
 
-\- Improved management of:
+- Visualized:
 
-&nbsp; - Inventory
+  - Monthly revenue trends  
 
-&nbsp; - Staffing
+  - Top-selling products  
 
-&nbsp; - Promotional strategies  
+  - Peak and off-peak hours  
 
 
 
@@ -140,15 +84,35 @@ The goal of this project is to transform raw transactional data into an \*\*inte
 
 
 
-\## 🛠 Tools Used
+## 🔍 Key Insights
 
-\- Microsoft Excel  
 
-&nbsp; - PivotTables  
 
-&nbsp; - Charts \& slicers  
+- 📈 **Revenue doubled** between January and June 2023, showing steady growth  
 
-&nbsp; - Dashboard design  
+- ☕ **Most popular product categories**:
+
+  - Coffee (58k transactions)
+
+  - Tea
+
+  - Bakery  
+
+- 🕘 **Peak hours**: Between **8:00 AM and 10:00 AM**  
+
+- 📍 **Store performance comparison**:
+
+  - Astoria
+
+  - Hell’s Kitchen
+
+  - Lower Manhattan  
+
+- 📅 **Traffic patterns**:
+
+  - Consistent activity on weekdays  
+
+  - Lower footfall on Saturdays  
 
 
 
@@ -156,9 +120,45 @@ The goal of this project is to transform raw transactional data into an \*\*inte
 
 
 
-\## 📁 Project Files
+## ✅ Outcomes \& Business Impact
 
-\- `coffee shop sales\_dashboard.xlsx` – cleaned data, analysis, and dashboard  
+- Centralized view of overall business performance  
+
+- Faster and more informed decision-making  
+
+- Improved management of:
+
+  - Inventory
+
+  - Staffing
+
+  - Promotional strategies  
+
+
+
+---
+
+
+
+## 🛠 Tools Used
+
+- Microsoft Excel  
+
+  - PivotTables  
+
+  - Charts \& slicers  
+
+  - Dashboard design  
+
+
+
+---
+
+
+
+## 📁 Project Files
+
+- [Coffee shop sales_dashboard.xlsx](Coffee%20shop%20sales_dashboard.xlsx) – cleaned data, analysis, and dashboard
 
 
 
