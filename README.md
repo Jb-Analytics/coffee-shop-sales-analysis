@@ -79,6 +79,9 @@ The goal of this project is to transform raw transactional data into an **intera
   - Peak and off-peak hours  
 
 
+<p align="center">
+  <img src="Dashboard.png" width="900">
+</p>
 
 ---
 
